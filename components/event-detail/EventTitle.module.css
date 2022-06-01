@@ -1,0 +1,12 @@
+.title {
+  background-color: #1180a1;
+  color: white;
+}
+
+.title h1 {
+  font-size: 3rem;
+  color: white;
+  margin: 0;
+  padding: 2rem 0 4rem 0;
+  text-align: center;
+}
