@@ -1,0 +1,24 @@
+.header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: hsl(230, 800%, 10%);
+  height: 5rem;
+  padding: 0 10%;
+}
+
+.logo a {
+  text-decoration: none;
+  font-size: 1.8rem;
+  color: white;
+}
+
+.navigation a {
+  text-decoration: none;
+  color: white;
+}
+
+.navigation ul {
+  list-style: none;
+}
